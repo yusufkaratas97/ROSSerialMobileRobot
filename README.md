@@ -7,4 +7,6 @@ basic simulation using turtleboot with real mobile robot at same time using Ardu
 ### ROS nodes
   - keyboard: allows you to control the robot using the keboard.
   - odometry: sending the data via ROSSerial to the Arduino board connected to the PC.
+### Project video
+ - contain the video of the project.
 
